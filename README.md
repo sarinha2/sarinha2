@@ -1,6 +1,6 @@
 # sobre mim
 - 👋 Olá meu nome é @sarinha2
-- 👀 Meu email de contato é @sarah.guimaraes@escola.pr.gov.br
+- 👀 Meu email de contato é [email](@sarah.guimaraes@escola.pr.gov.br)
 - 🌱 Eu estou interessado em aprender a programar novas linguagens.
 - 💞️ Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
 
